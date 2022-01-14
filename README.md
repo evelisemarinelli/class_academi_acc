@@ -1,1 +1,2 @@
 # class_academi_acc
+alterações exercicio
